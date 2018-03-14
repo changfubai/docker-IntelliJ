@@ -4,4 +4,4 @@
 
 docker pull changfubai/docker-intellij
 
-docekr run -d -p 9091:80 --name idea changfubai/docker-intellij
+docker run -d -p 9091:80 --name idea changfubai/docker-intellij
